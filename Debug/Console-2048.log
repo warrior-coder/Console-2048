@@ -1,3 +1,0 @@
-﻿  Console-2048.cpp
-D:\Code\OAIP\CPP-challenges\Console-2048\Console-2048.cpp(42,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  Console-2048.vcxproj -> D:\Code\OAIP\CPP-challenges\Debug\Console-2048.exe
